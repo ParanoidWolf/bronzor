@@ -1,0 +1,14 @@
+{
+  "name": "bronzor",
+  "version": "1.0.0",
+  "description": "A house keeper discord bot",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx node ."
+  },
+  "author": "Paranoid",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^13.6.0"
+  }
+}
